@@ -84,7 +84,7 @@ En la carpeta [C](C) encuentran:
 
 4.3 [Problemas de optimización convexa.]
 
-4.4 [Dualidad.]
+4.4 [Dualidad]
 
 4.5 [Algoritmos.]
 
