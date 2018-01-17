@@ -14,7 +14,7 @@ En la carpeta [C](C) encuentran:
 
 ## I [Cómputo científico](https://www.dropbox.com/sh/2o888m9v7i3ngsf/AACRxfa8bIl-LMBl7Jtb-y72a?dl=0):
 
-1.1 [Analisis numérico y cómputo científico.](https://www.dropbox.com/s/0q8l0w7mgckqz7p/1.1Analisis_numerico_y_computo_cientifico.pdf?dl=0)
+1.1 [Analisis numérico y cómputo científico.](https://www.dropbox.com/s/z5ifw3ti66gukdy/1.1.Analisis_numerico_y_computo_cientifico.pdf?dl=0)
 
 1.2 [Sistema de punto flotante.](https://www.dropbox.com/s/9fsupm3bhwmv7cb/1.2.Sistema_de_punto_flotante.pdf?dl=0)
 
