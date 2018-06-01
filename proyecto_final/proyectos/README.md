@@ -173,13 +173,17 @@ Coloquen referencias en el readme de equipos/equipo_07 de los posts, MKL, MAGMA
 
 Actualicen las referencias para investigación/implementación que ustedes consideren les ayudaron a su proyecto en su README.md de carpeta inicial
 
-[Trabajo escrito](Falta liga en readme de carpeta equipos/equipo_6)
+[Trabajo escrito](https://www.dropbox.com/s/0x9jaw4ndatt9gr/Hit___Run.pdf?dl=0)
 
 [Presentacion](https://www.dropbox.com/s/u1mpmyy0oqgba4k/presentacion.pdf?dl=0)
 
-[Implementacion](coloquen la liga en su readme de su carpeta de equipos/equipo_6 como el de la presentación y trabajo escrito) Coloquen una descripción de cómo ejecutar el código, qué datos usar, output de muestra y resultado en un README.md.
+[Implementacion](equipos/equipo_6/entrega_final)
 
+[Instalar MAGMA](equipos/equipo_6/avance_8_05_2018/codigo/MAGMA)
 
+[Tutorial](equipos/equipo_6/entrega_final/Tutorial.txt)
+
+[Ejemplo de salida](equipos/equipo_6/entrega_final/prueba1.txt)
 
 
 ---
