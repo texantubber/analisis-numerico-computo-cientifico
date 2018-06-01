@@ -8,10 +8,13 @@ Probability Distributions Subject to Partial Information`
 
 **Objetivo del proyecto**: `Paralelizar en GPU un algoritmo de Hit & Run definido por restricciones lineales aplicada a distribuciones de probabilidad discretas`
 
+Para instalar magma:
+
+[MAGMA](avance_8_05_2018/codigo/magma/MAGMA_tutorial)
 
 # Trabajo escrito
 
-[PDF](link)
+[PDF](https://www.dropbox.com/s/0x9jaw4ndatt9gr/Hit___Run.pdf?dl=0)
 
 # Presentación
 
